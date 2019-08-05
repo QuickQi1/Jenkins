@@ -1,0 +1,31 @@
+node {
+   echo 'Hello World'
+   stage('preprae')
+   {
+       
+   }
+   
+   stage('launch AWS Intance')
+   {
+   
+        stage('prepare product source code')
+        {
+            
+        }
+        
+        stage('install product')
+        {
+        
+        }
+   }
+   
+   stage('Run AT')
+   {
+       
+   }
+   
+   stage('Analyse Test Result')
+   {
+       
+   }
+}
